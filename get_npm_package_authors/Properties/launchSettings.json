@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "get_npm_package_authors": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.npmjs.com/package/@mui/material"
+    }
+  }
+}
